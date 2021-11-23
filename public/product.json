@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "./images/img1.jpg",
+    "first_name": "Brant",
+    "last_name": "Hughesdon",
+    "email": "bhughesdon0@domainmarket.com",
+    "gender": "Agender",
+    "price": 2005
+  },
+  {
+    "id": 2,
+    "image": "./images/img2.jpg",
+    "first_name": "Gerda",
+    "last_name": "Tanser",
+    "email": "gtanser1@ow.ly",
+    "gender": "Genderfluid",
+    "price": 1996
+  },
+  {
+    "id": 3,
+    "image": "./images/img3.jpg",
+    "first_name": "Ned",
+    "last_name": "Fatscher",
+    "email": "nfatscher2@google.cn",
+    "gender": "Male",
+    "price": 2003
+  },
+  {
+    "id": 4,
+    "image": "./images/img4.jpg",
+    "first_name": "Alexis",
+    "last_name": "Luckhurst",
+    "email": "aluckhurst3@baidu.com",
+    "gender": "Bigender",
+    "price": 2005
+  },
+  {
+    "id": 5,
+    "image": "./images/img5.jpg",
+    "first_name": "Skippie",
+    "last_name": "Rippen",
+    "email": "srippen4@bbb.org",
+    "gender": "Non-binary",
+    "price": 1997
+  }
+]
