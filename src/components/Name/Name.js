@@ -24,7 +24,7 @@ const Name = () => {
         <div className="card-container">
           <div className="row row-cols-1 row-cols-md-3 g-4">
             {products.map((product) => (
-              <Product product={product} handleAddProduct={handleAddProduct} />
+              <Product key={product.id} product={product} handleAddProduct={handleAddProduct} />
             ))}
           </div>
         </div>
